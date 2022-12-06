@@ -1,0 +1,150 @@
+body {
+    font-family: "Garamond";
+    font-size: large;
+}
+
+.colors {
+    border: 2px solid gray;
+    margin: 60px;
+}
+
+.fonts {
+    border: 2px solid gray;
+    margin: 60px;
+}
+
+.text-styles {
+    border: 2px solid gray;
+    margin: 60px;
+}
+
+.pinky {
+    width: 350px;
+    height: 150px;
+    background-color: #DB7093;
+    color: white;
+    padding: 50px;
+}
+
+.colors-text {
+    margin-left: 60px;
+}
+
+.fonts-text {
+    margin-left: 60px;
+}
+
+.styles-label {
+    margin-left: 60px;
+}
+
+.color-panel {
+    display: inline-block;
+    text-align: center;
+    margin: 40px 60px;
+}
+
+.font-panel {
+    display: inline-block;
+    text-align: center;
+    margin: 40px 90px;
+}
+
+.style-panel {
+    display: block;
+    text-align: left;
+    margin: 40px 60px;
+}
+
+.peachy {
+    width: 350px;
+    height: 150px;
+    background-color: #FFDAB9;
+    color: white;
+    padding: 50px;
+}
+
+.greeny {
+    width: 350px;
+    height: 150px;
+    background-color: #BDB76B;
+    color: white;
+    padding: 50px;
+}
+
+.plum {
+    width: 350px;
+    height: 150px;
+    background-color: #DDA0DD;
+    color: white;
+    padding: 50px;
+}
+
+.blue {
+    width: 350px;
+    height: 150px;
+    background-color: #6A5ACD;
+    color: white;
+    padding: 50px;
+}
+
+.olive {
+    width: 350px;
+    height: 150px;
+    background-color: #808000;
+    color: white;
+    padding: 50px;
+}
+
+header {
+    margin: 30px 120px;
+}
+
+.font1 {
+    font-family: "Garamond";
+    font-size: 20px;
+}
+
+.font2 {
+    font-family: "Goudy Old Style";
+    font-size: 20px;
+}
+
+.font3 {
+    font-family: "Perpetua";
+    font-size: 20px;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font-label {
+    font-size: 30px;
+}
+
+.style-header1 {
+    font-size: 26px;
+    font-weight: 700;
+    font-family: "Garamond";
+}
+
+.style-header2 {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Goudy Old Style";
+}
+
+.style-header3 {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Perpetua";
+}
